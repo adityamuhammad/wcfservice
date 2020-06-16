@@ -1,0 +1,7 @@
+C:\Users\maditya\source\repos\wcftestingclient\wcftestingclient\bin\Debug\wcftestingclient.exe.config
+C:\Users\maditya\source\repos\wcftestingclient\wcftestingclient\bin\Debug\wcftestingclient.exe
+C:\Users\maditya\source\repos\wcftestingclient\wcftestingclient\bin\Debug\wcftestingclient.pdb
+C:\Users\maditya\source\repos\wcftestingclient\wcftestingclient\obj\Debug\wcftestingclient.csprojAssemblyReference.cache
+C:\Users\maditya\source\repos\wcftestingclient\wcftestingclient\obj\Debug\wcftestingclient.csproj.CoreCompileInputs.cache
+C:\Users\maditya\source\repos\wcftestingclient\wcftestingclient\obj\Debug\wcftestingclient.exe
+C:\Users\maditya\source\repos\wcftestingclient\wcftestingclient\obj\Debug\wcftestingclient.pdb

@@ -1,0 +1,7 @@
+C:\Users\maditya\source\repos\TestWCF\TestWCF\bin\TestWCF.dll.config
+C:\Users\maditya\source\repos\TestWCF\TestWCF\bin\TestWCF.dll
+C:\Users\maditya\source\repos\TestWCF\TestWCF\bin\TestWCF.pdb
+C:\Users\maditya\source\repos\TestWCF\TestWCF\obj\Debug\TestWCF.csproj.CoreCompileInputs.cache
+C:\Users\maditya\source\repos\TestWCF\TestWCF\obj\Debug\TestWCF.dll
+C:\Users\maditya\source\repos\TestWCF\TestWCF\obj\Debug\TestWCF.pdb
+C:\Users\maditya\source\repos\TestWCF\TestWCF\obj\Debug\TestWCF.csprojAssemblyReference.cache
